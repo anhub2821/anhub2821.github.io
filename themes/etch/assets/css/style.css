@@ -57,7 +57,7 @@ header#banner nav ul {
     font-size: 1.05em;
     text-transform: lowercase;
     margin: 0;
-    padding: 0;
+    padding: 5px;
 }
 
 header#banner nav ul li {
