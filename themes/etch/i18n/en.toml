@@ -7,13 +7,13 @@
 other = "Recent Posts"
 
 [posts.date]
-other = "Jan 2, 2006"
+other = "January 02, 2006"
 
 
  [post]
 
  [post.created]
- other = "Jan 2, 2006"
+ other = "January 02, 2006"
 
  [post.updated]
- other = "Updated Jan 2, 2006"
+ other = "Updated January 02, 2006"

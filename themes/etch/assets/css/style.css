@@ -2,14 +2,21 @@
     box-sizing: border-box;
 }
 
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url('../fonts/JetBrainsMonoNerdFont-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
 html {
-    font-size: 62.5%;
+    font-size: 60%;
 }
 
 body {
     font-size: 16px;
     font-size: 1.6rem;
-    font-family: monospace;
+	font-family: "JetBrains Mono", monospace;
     color: #abb2bf;
 	background: #282c34;
     width: 100%;
@@ -21,6 +28,8 @@ body {
 
 header#banner {
     margin: 25px 0;
+	background-color: #5c6370;
+	padding: 10px;
 }
 
 header#banner a {
@@ -29,8 +38,7 @@ header#banner a {
 }
 
 header#banner a:hover {
-    text-decoration: none;
-	color: #e06c75;
+    text-decoration: underline;
 }
 
 header#banner h2 {
@@ -62,12 +70,12 @@ header#banner nav ul li a {
 }
 
 main#content a {
-    text-decoration: none;
+    text-decoration: underline;
     color: #abb2bf;
 }
 
 main#content a:hover {
-	color: #e06c75;
+	color: #98c379;
 }
 
 main#content h1,
@@ -100,14 +108,15 @@ main#content p {
 }
 
 main#content h3 {
-    color: #828791;
+    color: #d19a66;
 	line-height: 1.8;
 }
 
 main#content hr {
     height: 1px;
-    border: 0;
-    background: #282c34;
+    border: 1;
+    margin: 16px;
+    background: #abb2bf;
 }
 
 main#content abbr {
@@ -140,11 +149,11 @@ main#content ul#posts li a {
 }
 
 main#content ul#posts li a:hover {
-	color: #e06c75;
+	color: #98c379;
 }
 
 main#content ul#posts li a:hover small {
-	color: #e06c75;
+	color: #98c379;
 }
 
 /* single.html styles */
@@ -254,7 +263,7 @@ main#content blockquote {
 
 main#content code,
 main#content pre {
-    font-family: 'Menlo', monospace;
+	font-family: "JetBrains Mono", monospace;
 }
 
 main#content code {

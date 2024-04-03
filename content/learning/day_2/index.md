@@ -1,9 +1,9 @@
 +++
-title = 'Hallo Deutsch Tag zwei'
+title = 'Day 2(Tag zwei)'
 date = 2024-04-02T12:35:14+07:00
 +++
 
-### Today I learn:
+### Today I've learned:
 - The german alphabet and how to spell.
 - Ask where do person from(Woher kommen Sie? / kommst du?).
 - Ask where do person live(Wo wohnen Sie? / wohnst du?).

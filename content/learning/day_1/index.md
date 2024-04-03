@@ -1,5 +1,5 @@
 +++
-title = 'Hallo Deutsch Tag eins'
+title = 'Day 1(Tag eins)'
 date = 2024-04-01T21:01:53+07:00
 +++
 

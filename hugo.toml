@@ -8,23 +8,29 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  description = "this is site description"
-  copyright = "Copyright © 2024 Anhub"
-  highlight = true
+	description = "this is site description"
+	copyright = "Copyright © 2024 Anhub"
+	highlight = true
+	custom_css = ["static/css/main.css"]
+
 
 [menu]
 
   [[menu.main]]
-    identifier = "about"
-    name = "about"
-    title = "about"
+    name = ""
+    title = "posts"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    title = "About Me"
     pageRef = "/about"
     weight = 20
 
   [[menu.main]]
-    identifier = "learning"
-    name = "learning"
-    title = "learning"
+    name = "Learning"
+    title = "Learning"
     pageRef = "/learning"
     weight = 30
 
