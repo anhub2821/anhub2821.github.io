@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anhub&#39;s Personal Page</title>
-    <link>https://example.com/</link>
+    <link>https://anhub2821.github.io/</link>
     <description>Recent content on Anhub&#39;s Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 03 Apr 2024 15:56:40 +0700</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anhub2821.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     
