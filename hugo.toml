@@ -10,8 +10,6 @@ pygmentsUseClasses = true
 [params]
 	description = "this is site description"
 	copyright = "Copyright © 2024 Anhub"
-	highlight = true
-	custom_css = ["static/css/main.css"]
 
 
 [menu]

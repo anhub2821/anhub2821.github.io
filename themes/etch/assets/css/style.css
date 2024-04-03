@@ -119,11 +119,11 @@ main#content h3 {
 	line-height: 1.8;
 }
 
-main#content hr {
-    height: 1px;
-    border: 1;
-    margin: 16px;
-    background: #abb2bf;
+hr {
+	border: 1px solid #5c6370;
+    margin: 18px;
+	align: center;
+	width: 50%;
 }
 
 main#content abbr {
