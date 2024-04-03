@@ -1,0 +1,36 @@
+baseURL = "https://example.com"
+title = "Anhub's Personal Page"
+theme = "etch"
+languageCode = "en-US"
+enableInlineShortcodes = true
+enableEmoji = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  description = "this is site description"
+  copyright = "Copyright © 2024 Anhub"
+  highlight = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    pageRef = "/about"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "learning"
+    name = "learning"
+    title = "learning"
+    pageRef = "/learning"
+    weight = 30
+
+#[permalinks]
+  #posts = "/:title/"
+
+# [markup.goldmark.renderer]
+#	Allows HTML in Markdown
+#	 unsafe = true
