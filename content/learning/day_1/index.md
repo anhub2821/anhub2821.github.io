@@ -13,5 +13,3 @@ I have learned:
 - Have to Capitalize every noun
 - Learn 3 pronoun: du, ich, Sie
 - Learn 2 verb: sein und heiẞen
-
-### Conclusion: Easy to understand
