@@ -1,5 +1,5 @@
 +++
-title = 'Day 5(fünf Tag)'
+title = 'Day 5(Tag fünf)'
 date = 2024-04-05T23:49:02+07:00
 +++
 
