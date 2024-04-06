@@ -10,9 +10,16 @@ pygmentsUseClasses = true
 [params]
 	description = "this is site description"
 	copyright = "Copyright © 2024 Anhub"
+	mainSections = ['articles', 'learning']
 
 
 [menu]
+
+  [[menu.main]]
+    name = "Articles"
+    title = "Articles"
+    pageRef = "/articles"
+    weight = 10
 
   [[menu.main]]
     name = "About"
