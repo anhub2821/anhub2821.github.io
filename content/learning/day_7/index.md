@@ -12,7 +12,7 @@ date = 2024-04-09T18:42:58+07:00
         - Die (Plural)
     - Bestimmter can be use when:
         - There is only one thing.
-        - There is being mention earlier.
+        - That being mention earlier.
 - Conjugation in German have some special case:
     - Verbstamm is ending with -t und -d(du, sie/er/es, ihr):
         - Verbstamm + e + t.
