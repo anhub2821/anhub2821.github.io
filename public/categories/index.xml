@@ -2,18 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Anhub&#39;s Personal Page</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://anhub2821.github.io/categories/</link>
     <description>Recent content in Categories on Anhub&#39;s Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anhub2821.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     
     
     
+    
+    <item>
+      <title>Why You Shouldn&#39;t Use Social Media</title>
+      <link>https://anhub2821.github.io/posts/why_you_should_not_use_social_media/</link>
+      <pubDate>Sat, 06 Apr 2024 17:22:35 +0700</pubDate>
+      
+      <guid>https://anhub2821.github.io/posts/why_you_should_not_use_social_media/</guid>
+      <description>&lt;h3 id=&#34;tldr-go-touch-grass&#34;&gt;&lt;em&gt;TL;DR: Go touch grass&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;this-just-a-point-of-view-from-myself-and-it-may-be-incorrect-if-you-have-any-problem-you-can-mail-me&#34;&gt;This just a point of view from myself and it may be incorrect, if you have any problem you can mail me.&lt;/h4&gt;
+&lt;h3 id=&#34;waste-your-time&#34;&gt;Waste your time&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Watching social media is wasting your time, those platform had it own algorithms to make thing more attractive for each indiviual. Causing them to constantly consume stuffs that not necessary for you. &lt;strong&gt;Esepcially short videos&lt;/strong&gt;, it seem like it took only 15 seconds and you just keep scrolling until 2 hour passed and you still not get your job done.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cause-negative-feeling&#34;&gt;Cause Negative Feeling&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Social media tend to cause negative feeling. People usually got interest about intense content. Posts about drama, violent, trolling are always put on top instead heartwarming contents.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;misinformation&#34;&gt;Misinformation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;In the world of internet, fake news can be spread very fast and wide. But in the near future &lt;strong&gt;nothing is real&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;insecure&#34;&gt;Insecure&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Big company does take your personal data to personalize ads, who know which types of data they collect?&lt;/li&gt;
+&lt;li&gt;Malicious link easily steal your data.&lt;/li&gt;
+&lt;li&gt;With the help of A.I, deepfake can help fraud to be more easily.&lt;/li&gt;
+&lt;li&gt;can&amp;rsquo;t convice normie into actual secure FOSS softwares cuz they can&amp;rsquo;t handle it.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     
     

@@ -16,9 +16,9 @@ pygmentsUseClasses = true
 [menu]
 
   [[menu.main]]
-    name = "Articles"
-    title = "Articles"
-    pageRef = "/articles"
+    name = "Posts"
+    title = "Posts"
+    pageRef = "/posts"
     weight = 10
 
   [[menu.main]]

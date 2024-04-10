@@ -17,7 +17,7 @@ body {
     font-size: 16px;
     font-size: 1.6rem;
 	/* font-family: "JetBrains Mono", monospace; */
-	font-family: serif;
+	font-family: sans-serif;
     color: #abb2bf;
 	background-color: #1e2127;
     width: 100%;
@@ -45,7 +45,7 @@ header#banner a:hover {
 
 header#banner h2 {
     display: inline;
-	font-family: sans-serif;
+	font-family: serif;
     font-size: 21px;
     font-size: 2.1rem;
     margin: 0 8px 0 0;
@@ -100,7 +100,7 @@ main#content h6 {
 }
 
 main#content h3 {
-	font-family: sans-serif;
+	font-family: serif;
     font-size: 19px;
     font-size: 1.9rem;
 }
@@ -171,7 +171,7 @@ main#content ul#posts li a:hover small {
 /* single.html styles */
 main#content header#post-header h1 {
     display: block;
-	font-family: sans-serif;
+	font-family: serif;
     font-size: 23px;
     font-size: 2.3rem;
     font-weight: 600;
@@ -193,7 +193,7 @@ main#content #toc {
 }
 
 main#content #toc h4 {
-	font-family: sans-serif;
+	font-family: serif;
     font-size: 1.06em;
     color: #abb2bf;
     margin: 0;

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learning on Anhub&#39;s Personal Page</title>
-    <link>https://anhub2821.github.io/learning/</link>
-    <description>Recent content in Learning on Anhub&#39;s Personal Page</description>
+    <title>Posts on Anhub&#39;s Personal Page</title>
+    <link>https://anhub2821.github.io/posts/</link>
+    <description>Recent content in Posts on Anhub&#39;s Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 09 Apr 2024 18:42:58 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 17:22:35 +0700</lastBuildDate>
     
-	<atom:link href="https://anhub2821.github.io/learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anhub2821.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
