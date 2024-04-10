@@ -15,6 +15,6 @@ date = 2024-04-09T18:42:58+07:00
         - That being mention earlier.
 - Conjugation in German have some special case:
     - Verbstamm is ending with -t und -d(du, sie/er/es, ihr):
-        - Verbstamm + e + t.
+        - Verbstamm + -e + Endung.
     - Verbstamm is ending with -s und -z(du):
         - Verbstamm + -t.
