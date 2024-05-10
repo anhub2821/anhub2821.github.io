@@ -8,16 +8,6 @@ title = 'About Me'
 + **Age: 18**
 + **Live In:** Viet Nam
 
-### Work Experience
-+ Work as **part time worker** in [**YAZAKI Corporation**](https://www.yazaki-group.com/global/)
-    + **From Dec 2023 - Jan 2024**
-
-### Education
-+ Start Learning German
-    + **From Mar 2024** 
-+ Study in [**Uong Bi High School**](http://ubhs.edu.vn/)
-    + **From Sep 2020 - Jun 2023** 
-
 ### Languages
 + Vietnamese: **native**
 + English: **intermediate**
