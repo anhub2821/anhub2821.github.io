@@ -1,6 +1,6 @@
 baseURL = "https://anhub2821.github.io"
-title = "Anhub's Personal Page"
-theme = "etch"
+title = "Home"
+theme = "saftheme"
 languageCode = "en-US"
 enableInlineShortcodes = true
 enableEmoji = true

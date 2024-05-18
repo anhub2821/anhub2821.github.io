@@ -19,7 +19,7 @@ title = 'About Me'
 + **Mail Me: [anhub2821@gmail.com](mailto:anhub2821@gmail.com)**
 
 ### Things I Love (4C)
-+ :coffee: **Coffee**
-+ :thinking: **[Chess](https://lichess.org/@/ReWa211)**
-+ :cat: **Cat**
-+ :computer: **Coding**
++ **Coffee**
++ **[Chess](https://lichess.org/@/ReWa211)**
++ **Cat**
++ **Coding**
